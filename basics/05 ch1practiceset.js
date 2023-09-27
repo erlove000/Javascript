@@ -15,4 +15,6 @@ a1['friend']= "captain";
 console.log(a1);
 
 
+//Question 5///
+
 

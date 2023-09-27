@@ -18,4 +18,3 @@ console.log(a1);
 //// questin 5///
 
 
-

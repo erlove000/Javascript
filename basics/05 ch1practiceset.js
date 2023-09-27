@@ -18,8 +18,11 @@ console.log(a1);
 //// questin 5///
 const dict ={
     appreciate: "to understand a problem, situation, etc",
-    garrulous:"iduduuduiduisu",
+    garrulous:"hello how are you???",
 }
-console.log(dict.appreciate);
+console.log(dict);
+
+
+
 
 

@@ -16,5 +16,10 @@ console.log(a1);
 
 
 //// questin 5///
+const dict ={
+    appreciate: "to understand a problem, situation, etc",
+    garrulous:"iduduuduiduisu",
+}
+console.log(dict.appreciate);
 
 

@@ -14,4 +14,4 @@
 console.log(undefined==0);
 console.log(undefined>0);
 console.log(undefined<0);
-/// all three undefined are false
+//all three undefined are false//

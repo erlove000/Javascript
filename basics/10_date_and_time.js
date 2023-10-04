@@ -21,9 +21,6 @@ console.log(newDate.getMonth()+1);
 console.log(newDate.getDay());
 // '$'(newDate.getDay());
 
-newDate.toLocaleString('default', {})
-
-
-
-
+newDate.toLocaleString('default', {}
+)
 

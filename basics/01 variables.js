@@ -9,6 +9,6 @@ let accountState;
 
 accountEmail="hdfc@gmail.com"
 accountPassword="654321"
-accountCity="Jalandhar"
+accountCity="Chandigarh"
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])

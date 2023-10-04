@@ -18,7 +18,8 @@ let userOne = {
 
 let userTwo = userone
 
+
 userTwo.email =  "demo@google.com"
 
 console.log(userOne.email);
-console.log(userTwo.emaol);
+console.log(userTwo.email);

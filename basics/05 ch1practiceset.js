@@ -1,10 +1,10 @@
 //chapter 1 Questin1//
-let a = "rahul";
-let b = 5
-console.log(a+b);
+// let a = "rahul";
+// let b = 5
+// console.log(a+b);
 
-//Question 2//
-console.log(typeof (a+b));
+// //Question 2//
+// console.log(typeof (a+b));
 
 const a1 = {
     name:"harsh",
